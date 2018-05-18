@@ -23,9 +23,5 @@ Then we train our Machine learning model based on this processed dataset. We ext
 ### Testing our model and determine scores. 
 Use a chunk of the same dataset, we test our model and record scores of each. Our system does 7 epochs and uses a linear SVM to train a dataset of approximately 500 images. 
 
-<p align="left">
-  <img src="https://drive.google.com/file/d/1bmLG9BtfHjxkyOXG3El_-GU0vFlRHZJ-/view?usp=sharing"/>
-</p>
-
 ### Run the model for real time feed. 
 The program takes input from a webcam and displays on console the predicted emotion as it detects in real time. Some example snippets are attached in res1.png and res2.png. 
